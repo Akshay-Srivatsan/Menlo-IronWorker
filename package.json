@@ -1,0 +1,14 @@
+{
+  "name": "menlo-ironworker",
+  "version": "1.0.0",
+  "description": "A service which monitors Firebase for new updates, then posts notifications about those events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Srivatsan",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "firebase-admin": "^4.0.4"
+  }
+}
